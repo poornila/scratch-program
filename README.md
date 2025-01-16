@@ -1,1 +1,1 @@
-# scratch-program
+scratch project
